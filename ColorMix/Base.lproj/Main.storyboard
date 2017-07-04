@@ -56,7 +56,7 @@
                                 <rect key="frame" x="128" y="289" width="118" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="minimumTrackTintColor" red="1" green="0.083797650998776785" blue="0.13087520823475585" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="thumbTintColor" red="0.90890945216927699" green="0.92133532919266303" blue="0.97644106217616577" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="thumbTintColor" red="0.97644106217616577" green="0.94074559086027087" blue="0.34299607911861107" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <action selector="slided:" destination="BYZ-38-t0r" eventType="valueChanged" id="1zd-YT-Q2P"/>
                                 </connections>
@@ -65,7 +65,7 @@
                                 <rect key="frame" x="128" y="344" width="118" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="minimumTrackTintColor" red="0.31833131490250721" green="1" blue="0.38770048695710357" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="thumbTintColor" red="0.90890945216927699" green="0.92133532919266303" blue="0.97644106217616577" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="thumbTintColor" red="0.97644106217616577" green="0.94074559086027087" blue="0.34299607911861107" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <action selector="slided:" destination="BYZ-38-t0r" eventType="valueChanged" id="Nuf-MF-Y0W"/>
                                 </connections>
@@ -74,7 +74,7 @@
                                 <rect key="frame" x="128" y="399" width="118" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="minimumTrackTintColor" red="0.27495763599183853" green="0.59838410569879907" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="thumbTintColor" red="0.90890945216927699" green="0.92133532919266303" blue="0.97644106217616577" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="thumbTintColor" red="0.97644106217616577" green="0.94074559086027087" blue="0.34299607911861107" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <action selector="slided:" destination="BYZ-38-t0r" eventType="valueChanged" id="u9J-EN-i8y"/>
                                 </connections>
